@@ -22,6 +22,7 @@ Eficiencia: Reducir la sobrecarga de creación de instancias y mejorar el rendim
 Consistencia de datos: Asegurar que el estado no se mantenga inapropiadamente entre solicitudes.
 Gestión de recursos: Evitar fugas de memoria y problemas de sincronización.
 Escalabilidad: Asegurar que los servicios se comporten correctamente en entornos distribuidos y escalables.
+
 Sección 2: Creación de un ApiResponse Genérico
 1. ¿Qué es un ApiResponse genérico y cuál es su propósito en un servicio REST?
 Un ApiResponse genérico es un patrón para estructurar respuestas en una API REST de manera uniforme. Su propósito es encapsular la información de la respuesta, incluyendo el estado de la operación (éxito o error) y cualquier dato adicional. Esto ayuda a mantener una estructura coherente en las respuestas de la API y facilita la interpretación y manejo de respuestas por parte del cliente.
