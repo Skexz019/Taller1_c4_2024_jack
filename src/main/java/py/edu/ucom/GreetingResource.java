@@ -1,11 +1,11 @@
-package ucom.py;
+package py.edu.ucom;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
 import jakarta.ws.rs.Produces;
 import jakarta.ws.rs.core.MediaType;
 
-@Path("/hello/ucom")
+@Path("/hello/py")
 public class GreetingResource {
 
     @GET

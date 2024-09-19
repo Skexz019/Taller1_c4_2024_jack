@@ -1,4 +1,4 @@
-package py.edu.ucom;
+package py.edu.com;
 
 import io.quarkus.test.junit.QuarkusTest;
 import org.junit.jupiter.api.Test;
